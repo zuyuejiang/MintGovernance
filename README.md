@@ -1,7 +1,7 @@
 # ERC20 Governor
 
 Alchemy tutorial link: https://university.alchemy.com/course/ethereum/md/63c036f2016d9c0004923145
-</br>My governance contract: https://sepolia.etherscan.io/address/0x52a4B38b5f19815abcC22CF2746E0340B25780a6
+</br>My work: https://sepolia.etherscan.io/address/0x52a4B38b5f19815abcC22CF2746E0340B25780a6
 ### 🚀 Updated Features:
 - ⏰ Extend voting period (~2.5min)
 - 🎯 Delegate votes to myself
